@@ -9,6 +9,7 @@ RUN set -ex \
       groff \
       jq \
       less \
+      openssl \
       openvpn \
       py-pip \
       python \
